@@ -38,8 +38,10 @@ Our software development for the ARIAC competition utilizes both Python and C++,
 8. **CMakeLists.txt:** Configuration file specifying build instructions for the package.
 9. **package.xml:** Metadata file providing information about the package and its dependencies.
 
-
-
+## Flow Chart:
+<p align="center">
+<img width="75%" alt="Result Video" src="results/663Flowchart.png">
+</p>
 
 ## Instructions
 
